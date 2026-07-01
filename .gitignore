@@ -1,0 +1,24 @@
+# Node.js / Next.js
+nextjs-ui/node_modules/
+nextjs-ui/.next/
+nextjs-ui/out/
+nextjs-ui/build/
+nextjs-ui/dist/
+nextjs-ui/.env*.local
+
+# Spring Boot / Maven
+spring-backend/target/
+spring-backend/*.jar
+spring-backend/*.war
+
+# IDEs / Editor
+.idea/
+.vscode/
+*.swp
+*.suo
+*.sln
+
+# Docker / OS
+.DS_Store
+Thumbs.db
+mongodb_data/
